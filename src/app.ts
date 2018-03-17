@@ -1,1 +1,1 @@
-/home/colin/web/scratch/panel.ts
+../../scratch/panel.ts
