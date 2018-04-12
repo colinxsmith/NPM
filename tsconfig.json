@@ -5,6 +5,11 @@
         "sourceMap": true,
         "declaration": true,
         "module": "es2015",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
         "moduleResolution": "node"
     },
     "exclude": [
