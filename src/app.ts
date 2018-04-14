@@ -1,1 +1,1 @@
-../../scratch/panel.ts
+../../scratch/bar.ts
