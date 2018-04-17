@@ -1,0 +1,6 @@
+ npm init -y
+ npm i -S d3
+ npm i -D typescript @types/d3
+ npm i -D rollup
+ npm i -D rollup-plugin-node-resolve
+ npm i -D live-server
