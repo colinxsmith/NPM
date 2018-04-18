@@ -16,3 +16,11 @@
  npm i -D npm-run-all
  npm i -D font-awesome
  (cd src;ln -s ../node_modules/font-awesome/ font-awesome)
+ npm i -D codelyzer
+ npm i -D @angular/compiler
+ npm i -D @angular/platform-browser
+ npm i -D @angular/platform-browser-dynamic
+ npm i -D @angular/core
+ npm i -D @angular/common
+ npm i -D rxjs
+ npm i -D zone.js
