@@ -4,6 +4,7 @@
  npm i  rollup-watch -g
  npm i  live-server -g
  npm i  npm-run-all -g
+ npm i  font-awesome -g
  npm init -y
  npm i -D typescript 
  npm i -S d3
@@ -13,3 +14,4 @@
  npm i -D rollup-watch
  npm i -D live-server
  npm i -D npm-run-all
+ npm i -D font-awesome
