@@ -1,6 +1,15 @@
+ npm i  typescript -g
+ npm i  rollup -g
+ npm i  rollup-plugin-node-resolve -g
+ npm i  rollup-watch -g
+ npm i  live-server -g
+ npm i  npm-run-all -g
  npm init -y
+ npm i -D typescript 
  npm i -S d3
  npm i -D typescript @types/d3
  npm i -D rollup
  npm i -D rollup-plugin-node-resolve
+ npm i -D rollup-watch
  npm i -D live-server
+ npm i -D npm-run-all
