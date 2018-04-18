@@ -15,3 +15,4 @@
  npm i -D live-server
  npm i -D npm-run-all
  npm i -D font-awesome
+ (cd src;ln -s ../node_modules/font-awesome/ font-awesome)
