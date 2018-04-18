@@ -2,6 +2,7 @@
   "name": "ts",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "No description",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -v && tsc && rollup -c",
@@ -45,6 +46,5 @@
   "bugs": {
     "url": "https://github.com/colinxsmith/NPM/issues"
   },
-  "homepage": "https://github.com/colinxsmith/NPM#readme",
-  "description": ""
+  "homepage": "https://github.com/colinxsmith/NPM#readme"
 }
