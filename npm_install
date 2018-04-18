@@ -24,3 +24,4 @@
  npm i -D @angular/common
  npm i -D rxjs
  npm i -D zone.js
+ npm i -D tslint
