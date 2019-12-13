@@ -18,7 +18,7 @@
   "dependencies": {
     "angular": "^1.6.10",
     "d3": "^4.13.0",
-    "npm": "^5.8.0"
+    "npm": "^6.13.4"
   },
   "devDependencies": {
     "@angular/common": "^5.2.10",
