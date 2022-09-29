@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.8.0",
-    "d3": "^4.13.0",
+    "d3": "^7.6.1",
     "npm": "^6.13.4"
   },
   "devDependencies": {
